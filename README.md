@@ -1,0 +1,2 @@
+# naivestringcopy
+naive string copy
